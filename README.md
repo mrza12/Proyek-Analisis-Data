@@ -1,4 +1,6 @@
 # Analisis-Data-Project
+## Overview
+Project tugas bangkit academy untuk modul analisis data di dicoding dengan prjoect case public e-commerce dataset
 ## Setup Environment - Shell/Terminal
 ```
 mkdir Analisis-Data-Project
